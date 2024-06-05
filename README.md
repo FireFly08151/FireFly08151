@@ -1,4 +1,6 @@
-## Hi there 👋
+### Hi there 👋
+
+I study computer science at [H-BRS](https://www.h-brs.de/) and develop private projects.
 
 <!--
 **FireFly08151/FireFly08151** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
